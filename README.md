@@ -8,6 +8,22 @@
 
 ---
 
+## 🌱시연영상
+
+---
+
+### 집 맵핑
+
+![집 맵핑](https://user-images.githubusercontent.com/109258146/230312052-752791a9-b7ea-4748-a0a3-a5974b21407d.gif)
+
+### 식물 등록
+
+![식물 등록](https://user-images.githubusercontent.com/109258146/230312112-86a7fc05-14bf-4e09-8750-2c453fb2e56e.gif)
+
+### 식물에 물주기, 화분 옮기기
+
+https://youtu.be/vD8l-o3K8iA
+
 ## 🌱 프로젝트 진행 기간
 
 ---
@@ -433,18 +449,3 @@ https://j8b310.notion.site/8701deb361604d30abb754d51c7c4320
  ┃ ┗ 📜val.py
  ┗ 📜.gitignore
 ```
-
-## 시연영상
----
-
-### 집 맵핑
-
-![집 맵핑](https://user-images.githubusercontent.com/109258146/230312052-752791a9-b7ea-4748-a0a3-a5974b21407d.gif)
-
-### 식물 등록
-
-![식물 등록](https://user-images.githubusercontent.com/109258146/230312112-86a7fc05-14bf-4e09-8750-2c453fb2e56e.gif)
-
-### 식물에 물주기, 화분 옮기기
-
-https://youtu.be/vD8l-o3K8iA
